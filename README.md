@@ -13,6 +13,6 @@
 
 ## Инструменты
 
-Python 3.9.13 
-Pandas 1.2.4
-Matplotlib 3.3.4
+- Python 3.9.13 
+- Pandas 1.2.4
+- Matplotlib 3.3.4
